@@ -19,7 +19,7 @@ This project performs sentiment analysis on customer reviews from Amazon. It inv
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/sentiment-analysis-amazon-reviews.git
+   git clone https://github.com/DhananjayTalekar/SentimentalAnalysis
    cd sentiment-analysis-amazon-reviews
    ```
 
